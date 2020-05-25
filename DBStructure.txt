@@ -1,0 +1,3 @@
+The database structure is simple - there is only on table Person
+with the following fields
+Name, weight and height
